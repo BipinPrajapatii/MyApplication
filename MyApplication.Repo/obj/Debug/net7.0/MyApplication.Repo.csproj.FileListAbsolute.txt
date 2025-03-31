@@ -1,0 +1,17 @@
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Repo\bin\Debug\net7.0\MyApplication.Repo.deps.json
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Repo\bin\Debug\net7.0\MyApplication.Repo.dll
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Repo\bin\Debug\net7.0\MyApplication.Repo.pdb
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Repo\bin\Debug\net7.0\MyApplication.Core.dll
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Repo\bin\Debug\net7.0\MyApplication.Data.dll
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Repo\bin\Debug\net7.0\MyApplication.Data.pdb
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Repo\bin\Debug\net7.0\MyApplication.Core.pdb
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Repo\obj\Debug\net7.0\MyApplication.Repo.csproj.AssemblyReference.cache
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Repo\obj\Debug\net7.0\MyApplication.Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Repo\obj\Debug\net7.0\MyApplication.Repo.AssemblyInfoInputs.cache
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Repo\obj\Debug\net7.0\MyApplication.Repo.AssemblyInfo.cs
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Repo\obj\Debug\net7.0\MyApplication.Repo.csproj.CoreCompileInputs.cache
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Repo\obj\Debug\net7.0\MyApplic.F102D83B.Up2Date
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Repo\obj\Debug\net7.0\MyApplication.Repo.dll
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Repo\obj\Debug\net7.0\refint\MyApplication.Repo.dll
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Repo\obj\Debug\net7.0\MyApplication.Repo.pdb
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Repo\obj\Debug\net7.0\ref\MyApplication.Repo.dll

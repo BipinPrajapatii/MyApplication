@@ -1,0 +1,58 @@
+﻿@model bool
+@{
+    Layout = "~/Views/Shared/_Account.cshtml";
+    ViewBag.Title = "TimeTrakingSoft";
+}
+<form class="login-form">
+    <div class="card mb-0">
+        <div class="card-body">
+            <div class="text-center mb-3">
+                <img class="text-slate-300 border-slate-300 rounded-round p-3 mb-3 mt-1" src="~/images/TimeTrackingSoftIcon.png">
+                @if (Model)
+                {
+                    <h1 style="color: #8bc34a;">You have successfully joined your organization at TimeTrakingSoft.</h1>
+                }
+                else
+                {
+                    <h1 style="color: #8bc34a;">Invalid invitation link</h1>
+                }
+            </div>
+            <div class="form-group">
+                @if (Model)
+                {
+                    <div class="card-text text-center h3">
+                        Υou may now download the
+                        TimeTrakingSoft desktop app and sign in
+                        to your account.
+                    </div>
+                }
+                else
+                {
+                    <div class="alert alert-danger h6 text-center" role="alert">
+                        The invitation link may be used just once to join the organization account.
+                        Please sign in to your account directly if you have already joined.
+                        Please get in touch with your organization account admin if you need a new invitation.
+                    </div>
+                }
+            </div>
+            <div class="form-group">
+                 @if (Model)
+                {
+                    <a asp-action="Login" asp-controller="Account" class="btn btn-primary btn-block">Sign In<i class="icon-circle-right2 ml-2"></i></a>
+                }
+                else
+                {
+                    <a asp-action="Login" asp-controller="Account" class="btn btn-primary btn-block">Sign In<i class="icon-circle-right2 ml-2"></i></a>
+                }
+                @*@if (isValid)
+                {
+                    <a href="#" class="btn btn-primary btn-block">Download TimeTrakingSoft<i class="icon-circle-right2 ml-2"></i></a>
+                }
+                else
+                {
+                    <a asp-action="Login" asp-controller="Account" class="btn btn-primary btn-block">Sign In<i class="icon-circle-right2 ml-2"></i></a>
+                }*@
+            </div>
+        </div>
+    </div>
+</form>

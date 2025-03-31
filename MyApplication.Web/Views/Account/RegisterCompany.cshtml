@@ -1,0 +1,137 @@
+﻿@model MyApplication.Core.CompanyAddEditModel
+@{
+
+    Layout = "~/Views/Shared/_Account.cshtml";
+    ViewData["Title"] = "Register";
+}
+<script src="https://cdn.jsdelivr.net/npm/gasparesganga-jquery-loading-overlay@2.1.7/dist/loadingoverlay.min.js"></script>
+<link href="~/js/sweetalert/sweetalert.css" rel="stylesheet" />
+<script src="~/js/sweetalert/sweetalert.js"></script>
+<style>
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+</style>
+<div class="col-md-6  mb-1" >
+    <div class="text-center">
+        <img src="~/images/TimeTrackingSoft_155x82.png" height="150" alt="logo" />
+    </div>
+    <div class="card mb-0 mt-1"  style="width:80%; margin:auto;">
+        <div class="card-body">
+
+            @Html.HiddenFor(l => l.Id, new { @id = "recordId" })
+            @Html.HiddenFor(l => l.StartDate, new { @id = "startDate" })
+            @Html.HiddenFor(l => l.EndDate, new { @id = "endDate" })
+            @Html.HiddenFor(l => l.MaxUser, new { @id = "maxUser" })
+            @* <div class="col-md-6">
+
+
+            <div class="form-group">
+                 <label class="label">Max Users</label>
+
+                  @Html.ValidationMessageFor(l => l.MaxUser, "", new { @class = "text-danger text-center", @id = "maxuserValid" })
+             </div>
+        </div>*@
+            @* <div class="row">*@
+            <div class="row">
+                <div class="col-12 col-md-6">
+                    <div class="form-group">
+                        <label class="label">Company Name</label>
+                        @Html.TextBoxFor(l => l.Name, new { @class = "form-control", @type = "text", @id = "name" })
+                        @Html.ValidationMessageFor(l => l.Name, "", new { @class = "text-danger text-center", @id = "nameValid" })
+                    </div>
+                </div>
+                <div class="col-12 col-md-6">
+                    <div class="form-group">
+                        <label class="label">First Name</label>
+                        @Html.TextBoxFor(l => l.FirstName, new { @class = "form-control", @type = "text", @id = "firstName" })
+                        @Html.ValidationMessageFor(l => l.FirstName, "", new { @class = "text-danger text-center", @id = "firstValid" })
+                    </div>
+                </div>
+                <div class="col-12 col-md-6">
+                    <div class="form-group">
+                        <label class="label">Last Name</label>
+                        @Html.TextBoxFor(l => l.LastName, new { @class = "form-control", @type = "text", @id = "lastName" })
+                        @Html.ValidationMessageFor(l => l.LastName, "", new { @class = "text-danger text-center", @id = "lastValid" })
+                    </div>
+                </div>
+                <div class="col-12 col-md-6">
+                    <div class="form-group">
+                        <label class="label">Email</label>
+                        @Html.TextBoxFor(l => l.Email, new { @class = "form-control", @type = "email", @id = "email" })
+                        @Html.ValidationMessageFor(l => l.Email, "", new { @class = "text-danger text-center", @id = "emailValid" })
+                    </div>
+                </div>
+                <div class="col-12 col-md-6">
+                    <div class="form-group">
+                        <label class="label">Phone No</label>
+                        @Html.TextBoxFor(l => l.PhoneNo, new { @class = "form-control", @type = "text", @id = "phoneNo" })
+                        @Html.ValidationMessageFor(l => l.PhoneNo, "", new { @class = "text-danger text-center", @id = "phoneValid" })
+                    </div>
+                </div>
+                <div class="col-12 col-md-6">
+                    <div class="form-group">
+                        <label class="label">Address 1</label>
+                        @Html.TextBoxFor(l => l.Address1, new { @class = "form-control", @type = "text", @id = "address1" })
+                        @Html.ValidationMessageFor(l => l.Address1, "", new { @class = "text-danger text-center", @id = "address1Valid" })
+                    </div>
+                </div>
+                <div class="col-12 col-md-6">
+                    <div class="form-group">
+                        <label class="label">Address 2</label>
+                        @Html.TextBoxFor(l => l.Address2, new { @class = "form-control", @type = "text", @id = "address2" })
+                        @Html.ValidationMessageFor(l => l.Address2, "", new { @class = "text-danger text-center", @id = "address2Valid" })
+                    </div>
+                </div>
+                <div class="col-12 col-md-6">
+                    <div class="form-group">
+                        <label class="label">City</label>
+                        @Html.TextBoxFor(l => l.City, new { @class = "form-control", @type = "text", @id = "city" })
+                        @Html.ValidationMessageFor(l => l.City, "", new { @class = "text-danger text-center", @id = "cityValid" })
+                    </div>
+                </div>
+                <div class="col-12 col-md-6">
+                    <div class="form-group">
+                        <label class="label">State</label>
+                        @Html.TextBoxFor(l => l.State, new { @class = "form-control", @type = "text", @id = "state" })
+                        @Html.ValidationMessageFor(l => l.State, "", new { @class = "text-danger text-center", @id = "stateValid" })
+                    </div>
+                </div>
+                <div class="col-12 col-md-6">
+                    <div class="form-group">
+                        <label class="label">Country</label>
+                        @Html.TextBoxFor(l => l.Country, new { @class = "form-control", @type = "text", @id = "country" })
+                        @Html.ValidationMessageFor(l => l.Country, "", new { @class = "text-danger text-center", @id = "countryValid" })
+                    </div>
+                </div>
+                <div class="col-12 col-md-12">
+                    <div class="form-group">
+                        <label class="label">Zip Code</label>
+                        @Html.TextBoxFor(l => l.ZipCode, new { @class = "form-control", @name = "zip", @type = "number", @id = "zipCode" })
+                        @Html.ValidationMessageFor(l => l.ZipCode, "", new { @class = "text-danger text-center", @id = "zipValid" })
+                    </div>
+                </div>
+            </div>
+               
+               
+               
+                
+               
+               
+                
+                
+               
+                
+               
+           
+            @* </div>*@
+            <div class="form-group">
+                <button type="button" id="btnSave" onclick="companyAddEdit.saveform()" class="btn btn-primary btn-block">Register Company</button>
+            </div>
+        </div>
+        </div>
+        </div>
+<script src="~/Scripts/Account/addcompany.js" asp-append-version="true"></script>
+<script src="~/Scripts/Shared/master.js" asp-append-version="true"></script>

@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectRepository\\MyApplication\\MyApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B237B0C3-EDA1-4F34-A49A-46AA171EE0A7}|MyApplication.Data\\MyApplication.Data.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.data\\myapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B237B0C3-EDA1-4F34-A49A-46AA171EE0A7}|MyApplication.Data\\MyApplication.Data.csproj|solutionrelative:myapplication.data\\myapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\views\\shared\\_account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\views\\shared\\_account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\views\\account\\userjoin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\views\\account\\userjoin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\views\\account\\resetinvitationpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\views\\account\\resetinvitationpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\views\\account\\registercompany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\views\\account\\registercompany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\views\\account\\newpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\views\\account\\newpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\views\\account\\joininvitation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\views\\account\\joininvitation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541B6A99-08E3-4DF0-8E2F-7BE4D105EB75}|MyApplication.IoC\\MyApplication.IoC.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.ioc\\ioccontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541B6A99-08E3-4DF0-8E2F-7BE4D105EB75}|MyApplication.IoC\\MyApplication.IoC.csproj|solutionrelative:myapplication.ioc\\ioccontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\seed\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\seed\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B237B0C3-EDA1-4F34-A49A-46AA171EE0A7}|MyApplication.Data\\MyApplication.Data.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.data\\entities\\auditedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B237B0C3-EDA1-4F34-A49A-46AA171EE0A7}|MyApplication.Data\\MyApplication.Data.csproj|solutionrelative:myapplication.data\\entities\\auditedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B237B0C3-EDA1-4F34-A49A-46AA171EE0A7}|MyApplication.Data\\MyApplication.Data.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.data\\myapplicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B237B0C3-EDA1-4F34-A49A-46AA171EE0A7}|MyApplication.Data\\MyApplication.Data.csproj|solutionrelative:myapplication.data\\myapplicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541B6A99-08E3-4DF0-8E2F-7BE4D105EB75}|MyApplication.IoC\\MyApplication.IoC.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.ioc\\myapplication.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{541B6A99-08E3-4DF0-8E2F-7BE4D105EB75}|MyApplication.IoC\\MyApplication.IoC.csproj|solutionrelative:myapplication.ioc\\myapplication.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B237B0C3-EDA1-4F34-A49A-46AA171EE0A7}|MyApplication.Data\\MyApplication.Data.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.data\\myapplication.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B237B0C3-EDA1-4F34-A49A-46AA171EE0A7}|MyApplication.Data\\MyApplication.Data.csproj|solutionrelative:myapplication.data\\myapplication.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\controllers\\comapaniescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\controllers\\comapaniescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\middleware\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\middleware\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.web\\helpers\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5415178-7D85-4E39-8496-988B612312F8}|MyApplication.Web\\MyApplication.Web.csproj|solutionrelative:myapplication.web\\helpers\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B237B0C3-EDA1-4F34-A49A-46AA171EE0A7}|MyApplication.Data\\MyApplication.Data.csproj|d:\\projectrepository\\myapplication\\myapplication\\myapplication.data\\migrations\\20250216091939_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B237B0C3-EDA1-4F34-A49A-46AA171EE0A7}|MyApplication.Data\\MyApplication.Data.csproj|solutionrelative:myapplication.data\\migrations\\20250216091939_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Account.cshtml",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Shared\\_Account.cshtml",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Views\\Shared\\_Account.cshtml",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Shared\\_Account.cshtml",
+              "RelativeToolTip": "MyApplication.Web\\Views\\Shared\\_Account.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T10:52:58.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResetInvitationPassword.cshtml",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\ResetInvitationPassword.cshtml",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Views\\Account\\ResetInvitationPassword.cshtml",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\ResetInvitationPassword.cshtml",
+              "RelativeToolTip": "MyApplication.Web\\Views\\Account\\ResetInvitationPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T10:48:48.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterCompany.cshtml",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\RegisterCompany.cshtml",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Views\\Account\\RegisterCompany.cshtml",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\RegisterCompany.cshtml",
+              "RelativeToolTip": "MyApplication.Web\\Views\\Account\\RegisterCompany.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T10:48:43.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "MyApplication.Web\\appsettings.json",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\appsettings.json",
+              "RelativeToolTip": "MyApplication.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T11:33:11.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Data\\MyApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MyApplication.Data\\MyApplicationDbContext.cs",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Data\\MyApplicationDbContext.cs",
+              "RelativeToolTip": "MyApplication.Data\\MyApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowDIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T06:12:41.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "MyApplication.Web\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T10:48:53.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserJoin.cshtml",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\UserJoin.cshtml",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Views\\Account\\UserJoin.cshtml",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\UserJoin.cshtml",
+              "RelativeToolTip": "MyApplication.Web\\Views\\Account\\UserJoin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T10:48:57.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MyApplication.Web\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T10:48:38.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "MyApplication.Web\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T10:48:34.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewPassword.cshtml",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\NewPassword.cshtml",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Views\\Account\\NewPassword.cshtml",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\NewPassword.cshtml",
+              "RelativeToolTip": "MyApplication.Web\\Views\\Account\\NewPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T10:48:30.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JoinInvitation.cshtml",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\JoinInvitation.cshtml",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Views\\Account\\JoinInvitation.cshtml",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\JoinInvitation.cshtml",
+              "RelativeToolTip": "MyApplication.Web\\Views\\Account\\JoinInvitation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T10:48:25.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Views\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "MyApplication.Web\\Views\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T10:48:21.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MyApplication.Web\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T10:46:25.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Program.cs",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Program.cs",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Program.cs",
+              "RelativeToolTip": "MyApplication.Web\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T09:18:54.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IocContainer.cs",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.IoC\\IocContainer.cs",
+              "RelativeDocumentMoniker": "MyApplication.IoC\\IocContainer.cs",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.IoC\\IocContainer.cs",
+              "RelativeToolTip": "MyApplication.IoC\\IocContainer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T05:41:10.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MyApplication.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAYwB4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T06:06:01.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250216091939_initial.cs",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Data\\Migrations\\20250216091939_initial.cs",
+              "RelativeDocumentMoniker": "MyApplication.Data\\Migrations\\20250216091939_initial.cs",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Data\\Migrations\\20250216091939_initial.cs",
+              "RelativeToolTip": "MyApplication.Data\\Migrations\\20250216091939_initial.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAgwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T09:19:39.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuditedEntity.cs",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Data\\Entities\\AuditedEntity.cs",
+              "RelativeDocumentMoniker": "MyApplication.Data\\Entities\\AuditedEntity.cs",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Data\\Entities\\AuditedEntity.cs",
+              "RelativeToolTip": "MyApplication.Data\\Entities\\AuditedEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T09:04:33.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Seed\\Seed.cs",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Seed\\Seed.cs",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Seed\\Seed.cs",
+              "RelativeToolTip": "MyApplication.Web\\Seed\\Seed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:13:28.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyApplicationDbContextFactory.cs",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Data\\MyApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "MyApplication.Data\\MyApplicationDbContextFactory.cs",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Data\\MyApplicationDbContextFactory.cs",
+              "RelativeToolTip": "MyApplication.Data\\MyApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T06:39:12.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyApplication.IoC.csproj",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.IoC\\MyApplication.IoC.csproj",
+              "RelativeDocumentMoniker": "MyApplication.IoC\\MyApplication.IoC.csproj",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.IoC\\MyApplication.IoC.csproj",
+              "RelativeToolTip": "MyApplication.IoC\\MyApplication.IoC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-16T08:41:33.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MyApplication.Data.csproj",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Data\\MyApplication.Data.csproj",
+              "RelativeDocumentMoniker": "MyApplication.Data\\MyApplication.Data.csproj",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Data\\MyApplication.Data.csproj",
+              "RelativeToolTip": "MyApplication.Data\\MyApplication.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-16T07:09:24.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ComapaniesController.cs",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Controllers\\ComapaniesController.cs",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Controllers\\ComapaniesController.cs",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Controllers\\ComapaniesController.cs",
+              "RelativeToolTip": "MyApplication.Web\\Controllers\\ComapaniesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T05:59:05.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyApplication.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T05:56:58.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Middleware\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Middleware\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Middleware\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "MyApplication.Web\\Middleware\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:32:56.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppException.cs",
+              "DocumentMoniker": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Helpers\\AppException.cs",
+              "RelativeDocumentMoniker": "MyApplication.Web\\Helpers\\AppException.cs",
+              "ToolTip": "D:\\ProjectRepository\\MyApplication\\MyApplication\\MyApplication.Web\\Helpers\\AppException.cs",
+              "RelativeToolTip": "MyApplication.Web\\Helpers\\AppException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:32:25.115Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

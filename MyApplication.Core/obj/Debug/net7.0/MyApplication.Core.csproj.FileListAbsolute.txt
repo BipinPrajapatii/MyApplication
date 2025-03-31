@@ -1,0 +1,12 @@
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Core\bin\Debug\net7.0\MyApplication.Core.deps.json
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Core\bin\Debug\net7.0\MyApplication.Core.dll
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Core\bin\Debug\net7.0\MyApplication.Core.pdb
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Core\obj\Debug\net7.0\MyApplication.Core.csproj.AssemblyReference.cache
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Core\obj\Debug\net7.0\MyApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Core\obj\Debug\net7.0\MyApplication.Core.AssemblyInfoInputs.cache
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Core\obj\Debug\net7.0\MyApplication.Core.AssemblyInfo.cs
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Core\obj\Debug\net7.0\MyApplication.Core.csproj.CoreCompileInputs.cache
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Core\obj\Debug\net7.0\MyApplication.Core.dll
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Core\obj\Debug\net7.0\refint\MyApplication.Core.dll
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Core\obj\Debug\net7.0\MyApplication.Core.pdb
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Core\obj\Debug\net7.0\ref\MyApplication.Core.dll

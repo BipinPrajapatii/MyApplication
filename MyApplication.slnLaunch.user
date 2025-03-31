@@ -1,0 +1,31 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MyApplication.Core\\MyApplication.Core.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MyApplication.Data\\MyApplication.Data.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MyApplication.IoC\\MyApplication.IoC.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MyApplication.Repo\\MyApplication.Repo.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MyApplication.Service\\MyApplication.Service.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MyApplication.Web\\MyApplication.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

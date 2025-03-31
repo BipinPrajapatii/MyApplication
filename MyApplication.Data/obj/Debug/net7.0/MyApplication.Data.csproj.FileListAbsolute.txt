@@ -1,0 +1,17 @@
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Data\bin\Debug\net7.0\MyApplication.Data.deps.json
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Data\bin\Debug\net7.0\MyApplication.Data.runtimeconfig.json
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Data\bin\Debug\net7.0\MyApplication.Data.dll
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Data\bin\Debug\net7.0\MyApplication.Data.pdb
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Data\bin\Debug\net7.0\MyApplication.Core.dll
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Data\bin\Debug\net7.0\MyApplication.Core.pdb
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Data\obj\Debug\net7.0\MyApplication.Data.csproj.AssemblyReference.cache
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Data\obj\Debug\net7.0\MyApplication.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Data\obj\Debug\net7.0\MyApplication.Data.AssemblyInfoInputs.cache
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Data\obj\Debug\net7.0\MyApplication.Data.AssemblyInfo.cs
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Data\obj\Debug\net7.0\MyApplication.Data.csproj.CoreCompileInputs.cache
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Data\obj\Debug\net7.0\MyApplic.4A26F9DD.Up2Date
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Data\obj\Debug\net7.0\MyApplication.Data.dll
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Data\obj\Debug\net7.0\refint\MyApplication.Data.dll
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Data\obj\Debug\net7.0\MyApplication.Data.pdb
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Data\obj\Debug\net7.0\MyApplication.Data.genruntimeconfig.cache
+D:\ProjectRepository\MyApplication\MyApplication\MyApplication.Data\obj\Debug\net7.0\ref\MyApplication.Data.dll
